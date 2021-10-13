@@ -1,0 +1,24 @@
+.aboutMe{
+    display:flex;
+}
+.aboutMe_left{
+    width: 50%;
+}
+.aboutMe_img{
+    height:500px;
+    width:80%;
+    margin-left:60px;
+    margin-top:10px;
+}
+.aboutMe_left{
+    width: 50%;
+}
+.aboutMe_right{
+    width: 50%;
+    text-align: center;
+    border-radius: 5px;
+    margin:8px;
+}
+h3{
+    margin:8px;
+}

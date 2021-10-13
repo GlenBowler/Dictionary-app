@@ -1,0 +1,21 @@
+.WorkExp_container{
+    display: block;
+    position: relative;
+    background-color: white;
+    width:100%;
+}
+.WorkExp_header{
+    text-align: center;
+}
+h6{
+    color:lightgrey;
+}
+h3{
+    margin:10px;
+}
+.WorkExp_{
+    margin-left:10px;
+}
+.WorkExp_description{
+    margin-left:10px;
+}
